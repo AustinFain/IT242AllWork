@@ -1,0 +1,10 @@
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.exe
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.deps.json
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.runtimeconfig.json
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.runtimeconfig.dev.json
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.dll
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\bin\Debug\netcoreapp3.1\urbanPlannerRedux.pdb
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\obj\Debug\netcoreapp3.1\urbanPlannerRedux.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\obj\Debug\netcoreapp3.1\urbanPlannerRedux.AssemblyInfo.cs
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\obj\Debug\netcoreapp3.1\urbanPlannerRedux.dll
+C:\Users\austi\source\repos\urbanPlannerRedux\urbanPlannerRedux\obj\Debug\netcoreapp3.1\urbanPlannerRedux.pdb

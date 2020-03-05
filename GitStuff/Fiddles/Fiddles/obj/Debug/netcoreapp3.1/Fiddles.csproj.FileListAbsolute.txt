@@ -1,0 +1,11 @@
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.exe
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.deps.json
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.runtimeconfig.json
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.runtimeconfig.dev.json
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.dll
+C:\Users\austi\source\repos\Fiddles\Fiddles\bin\Debug\netcoreapp3.1\Fiddles.pdb
+C:\Users\austi\source\repos\Fiddles\Fiddles\obj\Debug\netcoreapp3.1\Fiddles.csprojAssemblyReference.cache
+C:\Users\austi\source\repos\Fiddles\Fiddles\obj\Debug\netcoreapp3.1\Fiddles.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\Fiddles\Fiddles\obj\Debug\netcoreapp3.1\Fiddles.AssemblyInfo.cs
+C:\Users\austi\source\repos\Fiddles\Fiddles\obj\Debug\netcoreapp3.1\Fiddles.dll
+C:\Users\austi\source\repos\Fiddles\Fiddles\obj\Debug\netcoreapp3.1\Fiddles.pdb

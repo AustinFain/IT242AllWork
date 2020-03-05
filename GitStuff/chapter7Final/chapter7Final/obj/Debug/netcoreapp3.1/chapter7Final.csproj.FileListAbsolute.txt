@@ -1,0 +1,11 @@
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.exe
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.deps.json
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.runtimeconfig.json
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.runtimeconfig.dev.json
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.dll
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\bin\Debug\netcoreapp3.1\chapter7Final.pdb
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\obj\Debug\netcoreapp3.1\chapter7Final.csprojAssemblyReference.cache
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\obj\Debug\netcoreapp3.1\chapter7Final.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\obj\Debug\netcoreapp3.1\chapter7Final.AssemblyInfo.cs
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\obj\Debug\netcoreapp3.1\chapter7Final.dll
+C:\Users\austi\source\repos\chapter7Final\chapter7Final\obj\Debug\netcoreapp3.1\chapter7Final.pdb
